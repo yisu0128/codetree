@@ -8,7 +8,7 @@ int main() {
     int c;
 
     cin >> a >> b >> c;
-    cout << a+b+c <<endl<< (int)(a+b+c)/3<<endl<< (int)(a+b+c)-((a+b+c)/3)
+    cout << a+b+c <<endl<< (int)(a+b+c)/3<<endl<< (int)(a+b+c)-((a+b+c)/3);
 
     return 0;
 }
