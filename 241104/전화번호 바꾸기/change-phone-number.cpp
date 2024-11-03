@@ -4,14 +4,17 @@ using namespace std;
 
 int main() {
     // 여기에 코드를 작성해주세요.
-    string yyyy;
-    string xxxx;
+    int xxxx;
+    int yyyy;
     char dash;
-    string o;
+    char o;
+    cin.get();
+    cin.get(); 
+    cin.get();
+    cin.get();
+    cin >> xxxx; 
+    cin.get();
+    cin >> yyyy;
+    cout << "010" << "-" << yyyy << "-" << xxxx;
 
-    cin >> o >> dash >>  xxxx >> dash >> yyyy;
-    cout << o << dash << yyyy << dash << xxxx;
-
-    
-    return 0;
 }
