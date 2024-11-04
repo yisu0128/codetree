@@ -6,7 +6,7 @@ int main() {
     int a, b, c;
     cin >>a>>b>>c;
     if (a<b && a<c){
-        cout << "1 " <<endl;
+        cout << "1 ";
     }
     else{
         cout << "0 ";
