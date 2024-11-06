@@ -22,6 +22,6 @@ int main() {
         
 
     }
-    cout << 10-cnt;
+    cout << n-cnt;
     return 0;
 }
